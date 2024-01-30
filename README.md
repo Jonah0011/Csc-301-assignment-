@@ -1,1 +1,1 @@
-# Csc-301-assignment-
+In this program, we define a function called `check_number` that takes a number as input. Inside the function, we use if-else statements to check if the number is zero, even, or odd. Finally, we call the function and print the appropriate message based on the condition.
